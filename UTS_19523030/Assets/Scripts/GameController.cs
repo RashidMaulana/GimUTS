@@ -11,6 +11,7 @@ public class GameController : MonoBehaviour {
 
 
     public Sprite[] puzzles;
+
     private bool firstGuess, secondGuess;
 
     private string firstGuessPuzzle, secondGuessPuzzle;

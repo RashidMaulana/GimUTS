@@ -6,7 +6,6 @@ public class SFXScript : MonoBehaviour
 {
     public AudioSource Audio;
     public AudioClip click;
-
     public static SFXScript sfx;
 
     private void Awake()
